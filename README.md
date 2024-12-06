@@ -1,24 +1,32 @@
-# 👋 Hi, I’m Võ Thanh Tòng
-  
-### 👀 I’m interested in
-- Exploring new and creative programming ideas.  
+# 👋 Xin chào, tôi là Võ Thanh Tòng
 
-### 🌱 I’m currently learning
+### 🎓 Hiện tại
+- Hiện là sinh viên chuyên ngành **Hệ thống Thông tin Quản lý**.  
+- **Giáo viên tại [Let's Code](https://letscode.edu.vn/)**, truyền cảm hứng công nghệ cho thế hệ trẻ.  
+
+### 🏫 Học vấn
+- **[Đại học Nha Trang](https://www.ntu.edu.vn/)**  
+
+### 👀 Sở thích
+- Khám phá những ý tưởng lập trình mới và sáng tạo.  
+- Thường xuyên vận động, đặc biệt là môn **chạy bộ**.  
+
+### 🌱 Tôi đang học
 - **Python**  
 - **JavaScript**  
 
-### 🏫 Education
-- **[Nha Trang University](https://www.ntu.edu.vn/)**  
-  <img src="https://private-user-images.githubusercontent.com/182326251/391502757-c9197f74-489f-43be-8aef-a565dad3db43.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMxMzUwNTEsIm5iZiI6MTczMzEzNDc1MSwicGF0aCI6Ii8xODIzMjYyNTEvMzkxNTAyNzU3LWM5MTk3Zjc0LTQ4OWYtNDNiZS04YWVmLWE1NjVkYWQzZGI0My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwMlQxMDE5MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjFkMzQzN2QyOWQxZDRlNWYzODAzMmQyMmY0MGRmMWM0MWEzZmU0NTM3NjA5MWMxNzk0YzVkYWYyM2FmYjEzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iyXaIn390DqgeKkIr1C8up9gW6cETRJBbWhrxLXw_cY" alt="Nha Trang University Logo" width="150">
+### 💞️ Mong muốn hợp tác
+- **Các dự án mã nguồn mở**  
+- **Tài liệu giáo dục**  
+- Những dự án phát triển phần mềm thú vị và ý nghĩa.  
 
-### 💞️ I’m looking to collaborate on
-- **Open-source projects**  
-- **Educational resources**  
-- Interesting and meaningful software development projects.  
+### 📫 Liên hệ với tôi
+- **Email:** vothanhtong9295@gmail.com  
+- **Facebook:** [Kết nối với tôi tại đây](https://www.facebook.com/share/1TT8smTwaq/?mibextid=LQQJ4d)  
 
-### ⚡ Fun fact
-I love solving puzzles, exploring advanced technologies, and constantly challenging myself to learn something new!
+### ⚡ Sự thật thú vị
+Tôi yêu thích giải đố, khám phá các công nghệ tiên tiến, và luôn thách thức bản thân học hỏi những điều mới mẻ!
 
 ---
 
-![Profile Banner](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+![Vietnam Flag](https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg)
